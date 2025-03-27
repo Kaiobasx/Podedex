@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f7f7f7;
+}
+
+.pokedex {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input, button {
+    margin: 10px;
+    padding: 8px;
+    border: 1 ;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #c54d4d;
+    border: 1;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 15%;
+}
+
+.pokemon-info {
+    margin-top: 20px;
+}
+
+#pokemon-img {
+    width: 120px;
+    height: 120px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #c54d4d;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #c54d4d;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #c54d4d;
+}
