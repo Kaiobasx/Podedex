@@ -19,9 +19,7 @@ body {
     box-sizing: border-box;
 }
 
-h1 {
-    font-family: 'Press Start 2P', cursive; /* Se você não for importar essa fonte, pode remover */
-    color: #cc0000;
+h1 {    color: #cc0000;
     margin-bottom: 25px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
